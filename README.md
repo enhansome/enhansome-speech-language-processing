@@ -4,7 +4,7 @@ Speech and Natural Language Processing
 \#######################################
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 495,338 | 🐛 99 | 📅 2026-06-30
+:target: <https://github.com/sindresorhus/awesome> ⭐ 495,740 | 🐛 100 | 📅 2026-06-30
 A curated list of speech and natural language processing resources. Other lists can be found in this `list <https://github.com/bayandin/awesome-awesomeness>`\_. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
 
 ## Finite State Toolkits and Regular Expressions
@@ -284,4 +284,4 @@ Many of the toools in the machine translation section also implement interesting
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
