@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T21:42:46.363Z",
-    "original_repository": "edobashira/speech-language-processing",
-    "original_repository_id": 22443092,
+    "last_updated": "2026-08-27T12:04:43.230Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22443092,
+      "language": null,
+      "last_commit": "2019-04-02T12:35:13Z",
+      "owner": "edobashira",
+      "repo": "speech-language-processing",
+      "stars": 2225
+    },
     "original_repository_sha": "d1d815f2231302430c741c7429f70e7d9428ebbf",
     "enhanced_repository": "enhansome/enhansome-speech-language-processing",
     "enhanced_repository_description": null,
