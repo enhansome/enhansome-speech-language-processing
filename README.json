@@ -1,15 +1,20 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T02:01:14.808Z",
+    "last_updated": "2026-08-29T04:24:07.279Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of speech and natural language processing resources",
+      "homepage": null,
       "id": 22443092,
       "language": null,
+      "license": null,
       "last_commit": "2019-04-02T12:35:13Z",
+      "open_issues": 19,
       "owner": "edobashira",
       "repo": "speech-language-processing",
-      "stars": 2225
+      "stars": 2225,
+      "topics": []
     },
     "original_repository_sha": "d1d815f2231302430c741c7429f70e7d9428ebbf",
     "enhanced_repository": "enhansome/enhansome-speech-language-processing",
