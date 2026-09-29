@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-28T23:46:17.919Z",
+    "last_updated": "2026-09-29T22:52:43.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of speech and natural language processing resources",
@@ -13,7 +13,7 @@
       "open_issues": 18,
       "owner": "edobashira",
       "repo": "speech-language-processing",
-      "stars": 2225,
+      "stars": 2226,
       "topics": []
     },
     "original_repository_sha": "d1d815f2231302430c741c7429f70e7d9428ebbf",
